@@ -1,0 +1,1 @@
+{"_invocation_id": "4228d6c7-29e9-4018-9360-1cb8c8eafb6d", "linked": {"0": {"name": "model.test_project.test_dbt_model", "type": "model"}, "1": {"name": "model.test_project.source_customer_table", "type": "model", "succ": [0]}, "2": {"name": "model.test_project.source_address_table", "type": "model", "succ": [0]}}}

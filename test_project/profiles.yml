@@ -1,0 +1,13 @@
+test_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: admin_usr
+      password: otwde123
+      dbname: postgres
+      schema: public
+      port: 5432
+      threads: 4 
+      keepalives_idle: 0 
